@@ -1,5 +1,17 @@
+#FirstImg {
+         width: 322px;
+         height: 80px;        
+}
+
 #FirstNav {
-         width: 100%;
-         height: 20px;
-         display: flex;
+    text-align: center;
+}
+
+ul li {
+    display: inline;
+    padding:200px;
+}
+
+ul {
+    text-align: center;
 }
