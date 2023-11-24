@@ -1,6 +1,4 @@
-.SecondNav {
-    align-items: justify;
-}      
+
         
         
         /* HTML body properties */
@@ -24,7 +22,7 @@
             width: auto;
         }
 
-        /*ul li {
+        ul li {
             display: inline-block;
             padding: 10px;
             margin: 0 10px;
