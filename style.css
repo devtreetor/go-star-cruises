@@ -1,3 +1,10 @@
+
+@media (max-width: 300px){
+    #FirstNav {
+        text-align: left;
+    }
+}
+
 #FirstImg {
          width: 322px;
          height: 80px;        
