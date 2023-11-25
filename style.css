@@ -1,7 +1,20 @@
 
-@media (max-width: 300px){
+@media (max-width: 600px){
+    body {
+        background-color: aquamarine;
+    }
+
     #FirstNav {
-        text-align: left;
+        width: 412px;
+        height: 44px;
+    }
+
+    .logo {
+        width: 199px;
+    }
+
+    .SecondNav > ul {
+        visibility: hidden;
     }
 }
 
@@ -19,6 +32,14 @@ ul li {
     padding:200px;
 }
 
-ul {
-    text-align: center;
+.SecondNav > ul {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 30px;
+    padding-top: 20px;
+}
+
+.logo {
+    width: 353px;
 }
